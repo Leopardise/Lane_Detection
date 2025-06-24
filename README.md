@@ -1,6 +1,5 @@
 # Lane Boundary Detection
 
-**Avilasha Mandal**
 Lane detection using classical image processing techniques
 
 ---
